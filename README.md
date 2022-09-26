@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amoskinuthia
-- 👀 I’m interested in software development % networking 
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning Javascript & django
 - 💞️ I’m looking to collaborate on- community projects that solves problems
 - 📫 How to reach me ...amoskinuthia15@gmail.com
