@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a **Web and Software Developer**, very ethusiastic on technology and always looking forward to solving real world problems using the power technology
+I am a **Web and Software Developer**,and a solutions architect solving real world problems using technology
 ---
 I Am more knowlegeable in the following programming languages and frameworks
 <div>
@@ -27,8 +27,6 @@ I Am more knowlegeable in the following programming languages and frameworks
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://img.shields.io/badge/-ANGULAR-red?logo=angular#&logoColor=fff"> 
   <img src="https://img.shields.io/badge/-SPRINGBOOT-green?logo=spring#&logoColor=fff"><img src="https://img.shields.io/badge/-DOCKER-blue?logo=docker#&logoColor=fff"> 
-<img src="https://img.shields.io/badge/-SPRINGBOOT-green?logo=spring#&logoColor=fff">
-</div>
 
 ---
 ---
