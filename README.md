@@ -64,7 +64,7 @@ I blend strong analytical thinking with business understanding to build reliable
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoskinuthia&layout=compact&theme=radical)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amoskinuthia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ---
-## 🏆 Interests & Personal Development
+## 🏆 Interests
 
 - Advanced **data structures & algorithms**
 - **System design** for data platforms
