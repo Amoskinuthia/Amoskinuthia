@@ -68,11 +68,10 @@ I blend strong analytical thinking with business understanding to build reliable
 
 - Advanced **data structures & algorithms**
 - **System design** for data platforms
-- **Power BI** for executive reporting
+- **Power BI**
 - **Apache Airflow & DBT** for ETL
-- **Machine learning pipelines** in Python
-- **Algorithms & Data Structures** – Regular practice on LeetCode & HackerRank  
-- **Project Management** – Leading analysis sprints using Agile & Scrum  
+- **Machine learning**
+- **Project Management** 
 - **Finance Analytics** – Modeling risk, forecasting, and dashboards  
 
 ### 🤝 Let’s Connect!
