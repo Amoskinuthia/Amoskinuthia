@@ -58,23 +58,11 @@ I blend strong analytical thinking with business understanding to build reliable
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 ---
-
-
 ## 🚀 GitHub Stats & Trophies
 
 ![Amos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoskinuthia&show_icons=true&theme=radical&count_private=true)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoskinuthia&layout=compact&theme=radical)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amoskinuthia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🏗️ Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **Chama Analytics Platform** | Performed market intelligence and dashboarding for Chamas in Kenya | Excel, Power BI, Pandas |
-| **Sea Level Predictor** | Time series regression on global sea level data | Python, Matplotlib, SciPy |
-
 ---
 ## 🏆 Interests & Personal Development
 
@@ -86,9 +74,6 @@ I blend strong analytical thinking with business understanding to build reliable
 - **Algorithms & Data Structures** – Regular practice on LeetCode & HackerRank  
 - **Project Management** – Leading analysis sprints using Agile & Scrum  
 - **Finance Analytics** – Modeling risk, forecasting, and dashboards  
-
-
-
 
 ### 🤝 Let’s Connect!
 
