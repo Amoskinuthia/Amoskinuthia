@@ -1,64 +1,66 @@
-### Hi there 👋 Welcome! I Am Amos Kinuthia
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif"align="center"  width="100"/>
-</div>
+# Hi there 👋, I'm **Amos Kinuthia**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Amoskinuthia&color=blue)](https://github.com/Amoskinuthia)
+[![GitHub Followers](https://img.shields.io/github/followers/Amoskinuthia?label=Follow&style=social)](https://github.com/Amoskinuthia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amos‐kinuthia/)  
 
 ---
 
-## :desktop_computer:ABOUT ME
+## 🧩 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-I am a **Web and Software Developer**,and a solutions architect solving real world problems using technology
----
-I Am more knowlegeable in the following programming languages and frameworks
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/-ANGULAR-red?logo=angular#&logoColor=fff"> 
-  <img src="https://img.shields.io/badge/-SPRINGBOOT-green?logo=spring#&logoColor=fff"><img src="https://img.shields.io/badge/-DOCKER-blue?logo=docker#&logoColor=fff"> 
+- 💼 **IT Business Analyst** in Banking & Finance, Nairobi, Kenya  
+- 🎯 Aspiring Senior Data Analyst / Scientist / Architect / Project Manager  
+- 🔍 Focused on systems design, data structures & algorithms, and full-cycle development  
+- 📚 Passionate about football, music, tech innovation, and human relations  
 
 ---
+
+## 💡 Core Skills & Areas of Expertise
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![SQL](https://img.shields.io/badge/SQL‑PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)]  
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-green)]  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]  
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)]  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]  
+
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amoskinuthia&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+## 🚀 GitHub Stats & Trophies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoskinuthia&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![My stats](https://github-readme-stats.vercel.app/api?username=Amoskinuthia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)   
-
-
+![Amos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoskinuthia&show_icons=true&theme=radical&count_private=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amoskinuthia&layout=compact&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amoskinuthia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<!-- Markdown -->
-**One before you go**
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## 📂 Featured Projects
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| **Data-Driven Reporting** | Automated monthly KPI dashboards for banking clients | Python, Pandas, SQL, Power BI |
+| **Core System Analyzer** | Business analysis & system design for core banking integration | UML, ER Modeling, Agile |
+| **Algorithmic Trading Prototype** | Prototype trading bot for FX/pair-data simulation | Python, NumPy, Data Structures |
+
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🏆 Interests & Personal Development
+
+- **Algorithms & Data Structures** – Regular practice on LeetCode & HackerRank  
+- **System Design** – Designing scalable, resilient architectures  
+- **Project Management** – Leading analysis sprints using Agile & Scrum  
+- **Finance Analytics** – Modeling risk, forecasting, and dashboards  
+
 ---
 
-**Contacts**
+## 📫 Let’s Connect
 
-Feel free to reach me via the following channels;
+- 📧 Email: [kinuthia.amos@example.com](mailto:kinuthia.amos@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/amos‑kinuthia](https://www.linkedin.com/in/amos‑kinuthia/)  
+- 📝 Portfolio / Blog: *(add link if available)*
 
-<a href="https://www.linkedin.com/in/amoskinuthia"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a>      <a href="https://twitter.com/amoskinuthia_01"><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a>      <a href="wa.me/+254706991937"><img src="https://img.shields.io/badge/-whatsapp-green?logo=Whatsapp&logoColor=white"></a>  <a href="mailto:amoskinuthia15@gmail.com?subject:subject:text"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
+---
 
-
-**DOWNLOAD MY RESUME**
-
-<a href="https://drive.google.com/file/d/1rnFfEhb50rJXDxuFIQWxWMwIeX1S6uux/view?usp=sharing"><img src="https://img.shields.io/badge/-RESUME-green?logo=RESUME&logoColor=white"><a/>
+*P.S. If you’re hiring a motivated data & systems enthusiast in Banking/Finance, let’s talk!*
