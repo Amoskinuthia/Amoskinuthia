@@ -90,6 +90,8 @@ Feel free to reach me via the following channels:
 <a href="https://drive.google.com/file/d/1rnFfEhb50rJXDxuFIQWxWMwIeX1S6uux/view?usp=sharing"><img src="https://img.shields.io/badge/-Download%20Resume-brightgreen?logo=google-drive&logoColor=white"></a>
 
 ---
+<!-- Markdown -->
+**One before you go**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
